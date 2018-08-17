@@ -13,7 +13,7 @@ Run `ng generate component component-name` to generate a new component. You can 
 ## Run
 
 Run `npm install` to install node_modules.
-Run `npm install` to run the project.
+Run `npm start` to run the project.
 
 
 ## Build
